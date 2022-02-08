@@ -1,1 +1,1 @@
-## Struktur Dasar
+## Just some basic exercise with java :)
