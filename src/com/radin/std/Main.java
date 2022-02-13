@@ -1,5 +1,4 @@
 package com.radin.std;
-
 import java.util.Date;
 
 import com.radin.std.inst.guitar;
@@ -22,8 +21,6 @@ public class Main {
         car.tires();
         train.tires();
         mtrcylce.tires();
-
-        
 
     }
 }
