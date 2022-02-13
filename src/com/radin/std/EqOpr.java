@@ -1,9 +1,11 @@
 package com.radin.std;
 public class EqOpr {
     public static void main(String[] args) {
+        // some basic equalities operation in java
         int value = 5;
         int anotherValue = 4;
         boolean result;
+
         result = value == anotherValue;
         System.out.println("Hasil 'value == anotherValue' adalah " + result);
         System.out.println();

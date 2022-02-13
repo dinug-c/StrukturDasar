@@ -2,6 +2,7 @@ package com.radin.std;
 
 public class MathOpr {
     public static void main(String[] args) {
+        // basic math operation
         System.out.println("Operasi Penjumlahan");
         int hasilPenjumlahan = 5 + 1;
         System.out.println("Hasil 5 + 1 = " + hasilPenjumlahan);

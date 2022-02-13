@@ -2,6 +2,7 @@ package com.radin.std;
 
 public class UnaryOpr {
     public static void main(String[] args) {
+        // basic unary operation
         System.out.println("Operator Unary Plus");
         int nilaiAwal = 5;
         int hasil = +nilaiAwal;
