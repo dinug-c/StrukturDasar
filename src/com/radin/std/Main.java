@@ -11,7 +11,7 @@ import org.apache.commons.lang3.time.DateUtils;
 public class Main {
     public static void main(String[] args) {
         System.out.println( "Training Examples with Java");
-        
+        // using date from import function
         Date today = new Date();
         Date tomorrow = DateUtils.addDays(today, 1);
         System.out.println("Today is : " + today);

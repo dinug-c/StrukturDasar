@@ -9,7 +9,6 @@ public class DataRef {
 
         Data data = new Data(idString);
 
-
         //length
         int userLength = user.length();
 
