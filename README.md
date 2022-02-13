@@ -1,1 +1,1 @@
-## Just some basic exercise with java :)
+## Basic Java Example
